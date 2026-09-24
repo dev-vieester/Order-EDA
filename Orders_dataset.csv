@@ -1,0 +1,51 @@
+order_id,customer_name,product,category,quantity,amount,region,order_date,status
+1001,Chidi Okafor,Laptop,Electronics,2,360000,South,1/5/2024,Delivered
+1002,Amina Bello,Phone,Electronics,1,85000,North,1/7/2024,Delivered
+1003,Tunde Adeyemi,Tablet,Electronics,3,210000,West,1/9/2024,Delivered
+1004,Grace Eze,Laptop,Electronics,1,180000,South,1/11/2024,Delivered
+1005,Emeka Nwosu,Phone,Electronics,2,170000,East,1/13/2024,Delivered
+1006,Fatima Abdullahi,Wristwatch,Accessories,1,45000,North,1/15/2024,Delivered
+1007,Kelechi Obi,Sneakers,Footwear,2,62000,East,1/17/2024,Delivered
+1008,Ngozi Eze,Blender,Appliances,1,28000,South,1/19/2024,Delivered
+1009,Seun Akinwale,Office Chair,Furniture,1,95000,West,1/21/2024,Delivered
+1010,Hauwa Musa,Handbag,Accessories,2,38000,North,1/23/2024,Delivered
+1011,Biodun Fashola,Microwave,Appliances,1,55000,West,1/25/2024,Delivered
+1012,Chisom Eze,Earphones,Electronics,3,21000,East,1/27/2024,Delivered
+1013,Yusuf Ibrahim,Standing Fan,Appliances,2,34000,North,1/29/2024,Delivered
+1014,Adaeze Nwosu,Dress,Clothing,4,18000,South,2/1/2024,Delivered
+1015,Rotimi Adesanya,Smartwatch,Electronics,1,120000,West,2/3/2024,Delivered
+1016,Zainab Suleiman,Perfume,Beauty,2,15000,North,2/5/2024,Delivered
+1017,Ifeanyi Okonkwo,Gaming Console,Electronics,1,250000,East,2/7/2024,Delivered
+1018,Blessing Okafor,Hair Dryer,Beauty,1,12000,South,2/9/2024,Delivered
+1019,Musa Garba,Dining Table,Furniture,1,145000,North,2/11/2024,Returned
+1020,Sola Adekunle,Sneakers,Footwear,3,93000,West,2/13/2024,Delivered
+1021,Chidinma Obi,Laptop,Electronics,1,195000,East,2/15/2024,Delivered
+1022,Abdulrahman Yusuf,Power Bank,Electronics,2,16000,North,2/17/2024,Delivered
+1023,Nneka Eze,Wristwatch,Accessories,1,32000,South,2/19/2024,Delivered
+1024,Babatunde Alabi,Refrigerator,Appliances,1,310000,West,2/21/2024,Delivered
+1025,Oluwakemi Bello,Sunglasses,Accessories,2,9500,South,2/23/2024,Delivered
+1026,Idris Lawal,Wireless Mouse,Electronics,3,13500,North,2/25/2024,Delivered
+1027,Chiamaka Ibe,Yoga Mat,Sports,2,11000,East,2/27/2024,Delivered
+1028,Gbenga Adewale,Office Desk,Furniture,1,130000,West,3/1/2024,Pending
+1029,Rukayat Bello,Mascara Set,Beauty,3,8500,North,3/3/2024,Delivered
+1030,Nnamdi Okafor,Keyboard,Electronics,2,25000,East,3/5/2024,Delivered
+1031,Chinwe Ugwu,Cooking Pot Set,Appliances,1,22000,South,3/7/2024,Delivered
+1032,Usman Dantata,Phone,Electronics,1,92000,North,3/9/2024,Delivered
+1033,Tolulope Adeyemi,Sandals,Footwear,2,14000,West,3/11/2024,Delivered
+1034,Ebele Okonkwo,Tablet,Electronics,1,75000,East,3/13/2024,Returned
+1035,Hakeem Salami,Dumbbell Set,Sports,1,38000,West,3/15/2024,Delivered
+1036,Adanna Nwachukwu,Earrings,Accessories,4,6000,South,3/17/2024,Delivered
+1037,Salisu Mohammed,Ceiling Fan,Appliances,2,48000,North,3/19/2024,Delivered
+1038,Obiageli Eze,Skincare Kit,Beauty,1,19500,East,3/21/2024,Delivered
+1039,Femi Ogunleye,Laptop Bag,Accessories,2,17000,West,3/23/2024,Delivered
+1040,Aisha Abdulkadir,Smartwatch,Electronics,1,115000,North,3/25/2024,Delivered
+1041,Chibuike Eze,Running Shoes,Footwear,2,54000,East,3/27/2024,Delivered
+1042,Olabisi Adeola,Iron,Appliances,1,9800,West,3/29/2024,Delivered
+1043,Rabiu Kwankwaso,Office Chair,Furniture,2,190000,North,4/1/2024,Pending
+1044,Ifeoma Obi,Dress,Clothing,3,27000,East,4/3/2024,Delivered
+1045,Dapo Ojo,External SSD,Electronics,1,65000,West,4/5/2024,Delivered
+1046,Hadiza Musa,Handbag,Accessories,1,42000,North,4/7/2024,Delivered
+1047,Chukwuemeka Nwosu,Washing Machine,Appliances,1,285000,East,4/9/2024,Delivered
+1048,Temitope Ogundimu,Perfume,Beauty,2,23000,West,4/11/2024,Returned
+1049,Ismaila Ture,Phone,Electronics,1,110000,North,4/13/2024,Delivered
+1050,Adaora Okonkwo,Blender,Appliances,1,31000,South,4/15/2024,Delivered
